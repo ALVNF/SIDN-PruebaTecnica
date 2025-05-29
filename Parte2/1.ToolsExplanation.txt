@@ -1,5 +1,0 @@
-- Explica qué son las tools (herramientas) en el contexto de agentes de IA y para qué sirven.
-
-Una tool es un componente externo que el agente puede invocar para ejecutar tareas que van más allá de generar texto con el objetivo de extender las capacidades del llm. 
-
-Siguiendo la documentación de LangChain(https://python.langchain.com/docs/concepts/tools/) es una abstracción que asocia una función de Python con el nombre de la función, la descripción y los argumentos esperados. Estas son creadas usando el decorador @tool encima de la función.
