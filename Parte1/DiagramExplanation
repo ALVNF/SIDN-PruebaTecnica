@@ -1,0 +1,5 @@
+Se ha realizado el diagrama de esta forma por diferentes razones
+- Refuerzo de integridad entre referencias empleando foreign keys.
+- Establecer una tabla relacional entre pedidos y productos.
+- Algunos campos como timesBought y spendedAmount se han declarado con el objetivo de reducir el número de cálculos necesarios en la obtención de
+  información de este estilo.
